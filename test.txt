@@ -7,7 +7,7 @@ class Feature
 
 {
  system.out.println("feature2020 branch new feature");
-//1000 lines of code written
+000 lines of code written
 }
 
 making changes for  feature 2020 release (top 20 courses for LMS)
